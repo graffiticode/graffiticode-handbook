@@ -4,4 +4,4 @@ What we do and how we do it.
 
 ## Outline
 
-[Tools](./tools.md)
+[Tools](./doc/tools.md)
