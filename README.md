@@ -2,6 +2,6 @@
 
 What we do and how we do it.
 
-## Outline
+### Contents
 
 [Tools](./doc/tools.md)
