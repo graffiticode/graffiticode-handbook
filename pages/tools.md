@@ -8,7 +8,7 @@ We want to minimize the cognitive load of working on the code base.
 * Make (for local workflows)
 * Node
 * Typescript
-* Browserify
+* Webpack
 
 ### Client Runtime
 
