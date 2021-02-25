@@ -1,8 +1,8 @@
-# Project Handbook
-
+Project Handbook
+---
 What we do and how we do it.
 
-### Contents
-
-#### [Tools](./pages/tools.md)
-#### [Language](./pages/language.md)
+## Contents
+- [Language](./pages/language.md)
+- [Errors](./pages/errors.md)
+- [Tools](./pages/tools.md)
