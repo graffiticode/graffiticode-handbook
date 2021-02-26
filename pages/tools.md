@@ -7,7 +7,6 @@ We want to minimize the cognitive load of working on the code base.
 
 * Make (for local workflows)
 * Node
-* Typescript
 * Webpack
 
 ### Client Runtime
@@ -24,4 +23,3 @@ We want to minimize the cognitive load of working on the code base.
 ### Testing
 
 * Jest
-* Chai
