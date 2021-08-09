@@ -6,3 +6,4 @@ What we do and how we do it.
 
 #### [Tools](./pages/tools.md)
 #### [Language](./pages/language.md)
+#### [Javascript Style](./pages/javascript-style.md)
